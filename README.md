@@ -1,3 +1,3 @@
 # gitskills
 # Creating a new branch is quick.
-# 后来的人提交的
+# master 多了一行
